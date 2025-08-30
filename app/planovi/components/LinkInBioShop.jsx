@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import { Check, Instagram, Mail, CreditCard, Shield, Timer, Bike, Dumbbell, Heart } from "lucide-react";
 import { motion } from "framer-motion";
