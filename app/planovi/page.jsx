@@ -1,6 +1,9 @@
 "use client";
-import LinkInBioShop from "@/components/LinkInBioShop";
 
 export default function Page() {
-  return <LinkInBioShop />;
+  return (
+    <div style={{minHeight:"100vh",display:"grid",placeItems:"center",fontFamily:"sans-serif"}}>
+      <h1>/planovi radi ✅ (minimalni test)</h1>
+    </div>
+  );
 }
